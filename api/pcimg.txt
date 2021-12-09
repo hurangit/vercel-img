@@ -1,8 +1,4 @@
 https://cdn.jsdelivr.net/gh/hurangit/Hexo-wallpaper/pcimg/11.jpg
-https://cdn.jsdelivr.net/gh/hurangit/Hexo-wallpaper/pcimg/15.jpg
-https://cdn.jsdelivr.net/gh/hurangit/Hexo-wallpaper/pcimg/14.jpg
-https://cdn.jsdelivr.net/gh/hurangit/Hexo-wallpaper/pcimg/13.jpg
-https://cdn.jsdelivr.net/gh/hurangit/Hexo-wallpaper/pcimg/12.jpg
 https://cdn.jsdelivr.net/gh/hurangit/Hexo-wallpaper/pcimg/10.jpg
 https://cdn.jsdelivr.net/gh/hurangit/Hexo-wallpaper/pcimg/9.jpg
 https://cdn.jsdelivr.net/gh/hurangit/Hexo-wallpaper/pcimg/8.jpg
@@ -50,3 +46,7 @@ https://cdn.jsdelivr.net/gh/hurangit/Hexo-wallpaper/pcimg/19.jpg
 https://cdn.jsdelivr.net/gh/hurangit/Hexo-wallpaper/pcimg/18.jpg
 https://cdn.jsdelivr.net/gh/hurangit/Hexo-wallpaper/pcimg/17.jpg
 https://cdn.jsdelivr.net/gh/hurangit/Hexo-wallpaper/pcimg/16.jpg
+https://cdn.jsdelivr.net/gh/hurangit/Hexo-wallpaper/pcimg/15.jpg
+https://cdn.jsdelivr.net/gh/hurangit/Hexo-wallpaper/pcimg/14.jpg
+https://cdn.jsdelivr.net/gh/hurangit/Hexo-wallpaper/pcimg/13.jpg
+https://cdn.jsdelivr.net/gh/hurangit/Hexo-wallpaper/pcimg/12.jpg
