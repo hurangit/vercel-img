@@ -1,14 +1,14 @@
 <?php
 $agent = $_SERVER['HTTP_USER_AGENT'];
 if(stripos($agent,'android')!==false || stripos($agent, 'iphone')!==false){
-    $filename = "peimg.txt";
+    $filename = "/peimg.txt";
     if(!file_exists($filename)){
         die('peimg文件不存在');
     }
 }else {
-    $filename = "pcimg.txt";
+    $filename = "/pcimg.txt";
     if(!file_exists($filename)){
-        die('peimg文件不存在');
+        die('/peimg文件不存在');
     }
 }
 $pics = [];
