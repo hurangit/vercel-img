@@ -1,5 +1,5 @@
 <?php
-const ALLOW_OUTPUT = false; // 修改以开启
+const ALLOW_OUTPUT = true; // 修改以开启
 const ERROR_IMG = [
     404 => 'https://http.cat/404',
     503 => 'https://http.cat/503'
