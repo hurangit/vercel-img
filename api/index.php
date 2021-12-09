@@ -1,5 +1,4 @@
 <?php
-const ALLOW_OUTPUT = true; // 修改以开启
 $agent = $_SERVER['HTTP_USER_AGENT'];
 if(stripos($agent,'android')!==false || stripos($agent, 'iphone')!==false){
     $filename = "peimg.txt";
